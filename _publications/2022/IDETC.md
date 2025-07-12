@@ -18,7 +18,7 @@ authors:
   - Yuxuan Du
   - Ye Qiao
   - Shu Wang
-  - CunfuWang#
+  - Cunfu Wang#
 
 links:
   Paper: https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2022/86229/V03AT03A045/1150338
