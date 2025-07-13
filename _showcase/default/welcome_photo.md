@@ -1,6 +1,6 @@
 ---
 show: true
-width: 5
+width: 4.2
 date: 2025-01-12 00:01:00 +0800
 ---
 <div>
