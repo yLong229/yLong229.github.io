@@ -4,8 +4,6 @@ width: 4
 date: 2025-01-12 00:01:00 +0800
 ---
 <div>
-        <img data-src="{{ 'assets/images/etc/rednote.jpg' | relative_url }}" class="lazy w-100 rounded" 
-             src="{{ '/assets/images/etc/rednote.jpg' | relative_url }}" 
-             data-toggle="tooltip" data-placement="top" title="Click to view my RedNote">
+    <img src="{{ 'assets/images/badges/MIT_Social_circle.png' | relative_url }}" class="img-fluid rounded" >
     </a>
 </div>
