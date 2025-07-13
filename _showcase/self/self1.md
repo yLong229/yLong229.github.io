@@ -1,6 +1,6 @@
 ---
 show: true
-width: 3.5
+width: 3.2
 date: 2024-12-12 00:01:00 +0800
 group: Not Just Research
 ---
