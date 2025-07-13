@@ -1,6 +1,6 @@
 ---
 show: true
-width: 9
+width: 10
 date: 2025-01-13 00:01:00 +0800
 ---
 
