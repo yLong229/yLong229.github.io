@@ -8,10 +8,10 @@ date: 2025-01-13 00:01:00 +0800
     <h2>More about me!</h2>
     <hr />
     <p>
-        <code>Beyond Research</code>, I embrace a vibrant life filled with camping, hiking, and working out.
+        <code>Beyond Research</code>, I embrace a fulfilling and vibrant life, enjoying traveling and exploring the world.
     </p>
     <p>
-        I spent 38 days traveling the U.S. by train, fueling my passion for travel and deepening my appreciation for geography. I also share my journey as a study-abroad influencer on <a href="https://www.xiaohongshu.com/user/profile/638b75f2000000001f01aed6" target="_blank">RedNote (Xiaohongshu)</a> .
+        I embrace a vibrant and fulfilling life, enjoying traveling to explore the world. Recently, I embarked on a 15-day self-driving adventure in western Sichuan, where I explored the stunning landscapes, immersed myself in the unique culture, and experienced the natural beauty of the region.
     </p>
     <p>
         Explore this showcase to discover the many facets of who I am!
