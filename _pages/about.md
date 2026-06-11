@@ -24,7 +24,7 @@ I specialize in solid mechanics and have extensive experience in numerical simul
 # 🔥 News
 - *Nov. 2025*: &nbsp;🎉🎉 The paper about <a href="https://www.tandfonline.com/doi/full/10.1080/15397734.2025.2605536?mi=j0k0ox" target="_blank">triply periodic
 minimal surface (TPMS) structure  modeling method</a> is accepted by Mechanics Based Design of Structures and Machines!
-- *Sep. 2025*: &nbsp;🎉🎉 I go to Fudan University and join <a href="https://scholar.google.com/citations?hl=en&user=3CBuGosAAAAJ" target="_blank">Prof. Timon Rabczuk</a>'s group!
+- *Sep. 2025*: &nbsp;🎉🎉 I join <a href="https://scholar.google.com/citations?hl=en&user=3CBuGosAAAAJ" target="_blank">Prof. Timon Rabczuk</a>'s group and start my PhD research!
 - *Jun. 2025*: &nbsp;🎉🎉 I receive my master's degree from School of Aerospace Engineering, Xiamen University!
 - *May 2025*: &nbsp;🎉🎉 I complete my master's thesis defense and thank all the committee members for their valuable comments.
 - *May 2025*: &nbsp;🎉🎉 I complete the paper about <a href="https://arxiv.org/abs/2506.04028" target="_blank">triply periodic
