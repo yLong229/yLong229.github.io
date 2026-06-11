@@ -103,7 +103,7 @@ Jinhui Li, Zhenhong Deng, Yong Tang, **Siqi Wang**, Zhe Yang,  Huageng Luo, Wuju
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Mechanical Strength</div><img src='images/yangzhe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Research on Super-Element Condensation Method of Aero-Engine Magazine Structure Considering Connections for Dynamics Modeling]
+[Research on Super-Element Condensation Method of Aero-Engine Magazine Structure Considering Connections for Dynamics Modeling](https://kns.cnki.net/kcms2/article/abstract?v=wGRGwcz8A0d_aYq1cLQqphgGQXqHWOyVTk3NFKu_NiXLAD4D5fK5TzL95yi3IY-LNJQdXyAg9upBIyEoFiKp5WiZMHde1gTCqa0gPBNC9Y14c0stVP4Z94J172xYhwKxLUorRe6btI-2OWo54sKmjsZMrOIM2q2o4eOxZUKvg1DJR6pGq9T6MQ==&uniplatform=NZKPT&language=CHS)
 
 Zhe Yang, Baoqiang Zhang, Zhenhuan Tang, Yong Tang, Wujun Feng, Haidong Lin, **Siqi Wang**, Jinhui Li
 
@@ -112,6 +112,17 @@ Zhe Yang, Baoqiang Zhang, Zhenhuan Tang, Yong Tang, Wujun Feng, Haidong Lin, **S
 </div>
 
 # 📝 Under Review
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/MR-GVNO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MR-GVNO: A Geometry-Aware Variational Physics-informed Neural Operator for Mindlin–Reissner Plates on Irregular Domains]
+
+**Siqi Wang**, Daobo Sun, Yizheng Wang, Yilong Zhang, Yabin Jin, Xiaoying Zhuang, Timon Rabczuk
+
+- We propose MR-GVNO, a geometry-aware physics-informed neural operator that enables label-free and efficient response prediction for Mindlin–Reissner plates with irregular geometries, heterogeneous materials, and varying loads.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/SMO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
