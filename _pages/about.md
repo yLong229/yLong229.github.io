@@ -45,16 +45,6 @@ minimal surface (TPMS) structure and bird strike</a> and submit to Aerospace Sci
 - *Jun. 2022*: &nbsp;🎉🎉 I receive my bachelor's degree from Hunan University!
   
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reliability Engineering & System Safety</div><img src='images/ress.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[High-Cycle Fatigue Life Prediction for Fan Blades Considering Aleatory and Epistemic Uncertainty with Random Damage](https://www.sciencedirect.com/science/article/pii/S095183202500393X)
-
-Xiaodong Zhang, Dengyu Wu, Zhenhong Deng, **Siqi Wang**, Wujun Feng, Huageng Luo, Baoqiang Zhang
-
-- We propose a fatigue life prediction method for Boundary Layer Ingestion (BLI) fan blades under aleatory and epistemic uncertainties with random damage, combining Sparse Polynomial Chaos Expansion–Monte Carlo Simulation (SPCE–MCS), Finite Element Analysis (FEA), and Expectation-Maximization Gaussian Mixture Distribution (EM–GMD).
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aerospace Science and Technology</div><img src='images/ast.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -86,6 +76,28 @@ Xiaodong Zhang, Dengyu Wu, Zhenhong Deng, **Siqi Wang**, Wujun Feng, Huageng Luo
 **Siqi Wang**, Jinhui Li, Haidong Lin, Zhenhong Deng, Baoqiang Zhang, Huageng Luo
 
 - We investigate the effects of multiple bird strikes on engine fan blades by introducing a probabilistic impact model and using an implicit–explicit simulation method. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reliability Engineering & System Safety</div><img src='images/ress.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[High-Cycle Fatigue Life Prediction for Fan Blades Considering Aleatory and Epistemic Uncertainty with Random Damage](https://www.sciencedirect.com/science/article/pii/S095183202500393X)
+
+Xiaodong Zhang, Dengyu Wu, Zhenhong Deng, **Siqi Wang**, Wujun Feng, Huageng Luo, Baoqiang Zhang
+
+- We propose a fatigue life prediction method for Boundary Layer Ingestion (BLI) fan blades under aleatory and epistemic uncertainties with random damage, combining Sparse Polynomial Chaos Expansion–Monte Carlo Simulation (SPCE–MCS), Finite Element Analysis (FEA), and Expectation-Maximization Gaussian Mixture Distribution (EM–GMD).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Structural and Multidisciplinary Optimization</div><img src='images/SMO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Scalable Topology Optimization Framework with Neural-Implicit Representation and Adjoint-Driven Gradients]
+
+Yilong Zhang, Chenxu Wang, **Siqi Wang**, Cunfu Wang, Gengkai Hu
+
+- We propose NIAD-TO, a scalable topology optimization framework that couples neural-implicit density representations with discrete adjoint-driven gradients by integrating PyTorch and FEniCS/dolfin-adjoint in an end-to-end manner, enabling resolution-independent modeling and efficient sensitivity evaluation across multimaterial, multiscale, multiphysics, and nonlinear scenarios with improved accuracy and efficiency.
 </div>
 </div>
 
@@ -124,16 +136,7 @@ Zhe Yang, Baoqiang Zhang, Zhenhuan Tang, Yong Tang, Wujun Feng, Haidong Lin, **S
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/SMO.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[A Scalable Topology Optimization Framework with Neural-Implicit Representation and Adjoint-Driven Gradients]
-
-Yilong Zhang, Chenxu Wang, **Siqi Wang**, Cunfu Wang, Gengkai Hu
-
-- We propose NIAD-TO, a scalable topology optimization framework that couples neural-implicit density representations with discrete adjoint-driven gradients by integrating PyTorch and FEniCS/dolfin-adjoint in an end-to-end manner, enabling resolution-independent modeling and efficient sensitivity evaluation across multimaterial, multiscale, multiphysics, and nonlinear scenarios with improved accuracy and efficiency.
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ES.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
