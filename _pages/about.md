@@ -22,6 +22,8 @@ Welcome to my academic homepage. My name is Siqi Wang, and I am a self-motivated
 I specialize in solid mechanics and have extensive experience in numerical simulation and vibration testing. My current research focuses on the intersection of AI and solid mechanics.
 
 # 🔥 News
+- *Jun. 2026*: &nbsp;🎉🎉 The paper about scalable topology optimization</a> from my friend <a href="https://www.researchgate.net/profile/Yilong-Zhang-13" target="_blank">Yilong Zhang</a> is accepted by Structural and Multidisciplinary Optimization!
+- *Jun. 2026*: &nbsp;🎉🎉 I complete the paper about <a href="https://arxiv.org/abs/2606.16624" target="_blank">predicting Mindlin–Reissner plate responses using neural operators</a>!
 - *Nov. 2025*: &nbsp;🎉🎉 The paper about <a href="https://www.tandfonline.com/doi/full/10.1080/15397734.2025.2605536?mi=j0k0ox" target="_blank">triply periodic
 minimal surface (TPMS) structure  modeling method</a> is accepted by Mechanics Based Design of Structures and Machines!
 - *Sep. 2025*: &nbsp;🎉🎉 I join <a href="https://scholar.google.com/citations?hl=en&user=3CBuGosAAAAJ" target="_blank">Prof. Timon Rabczuk</a>'s group and start my PhD research!
@@ -36,8 +38,8 @@ minimal surface structure (TPMS) and bird strike</a> is accepted by Aerospace Sc
 - *Dec. 2024*: &nbsp;🎉🎉 I attended the The 2023 Joint Academic Annual Conference of the Mechanics Societies of Fujian and Jiangxi Provinces and have an oral presentation!
 - *Oct. 2024*: &nbsp;🎉🎉 I complete the paper about <a href="https://www.sciencedirect.com/science/article/abs/pii/S1270963825001804" target="_blank">triply periodic
 minimal surface (TPMS) structure and bird strike</a> and submit to Aerospace Science and Technology!
-- *Aug. 2024*: &nbsp;🎉🎉 The paper about super-element condensation method from my friend <a href="https://www.researchgate.net/scientific-contributions/Zhe-Yang-2285984581" target="_blank">Zhe Yang</a> is accepted by Journal of Mechanical Strength (In Chinese)!
-- *Jun. 2024*: &nbsp;🎉🎉 The paper about model updating from my friend <a href="https://www.researchgate.net/scientific-contributions/Jinhui-Li-2245551287" target="_blank">Jinhui Li</a> is accepted by Mathematics!
+- *Aug. 2024*: &nbsp;🎉🎉 The paper about <a href="https://kns.cnki.net/kcms2/article/abstract?v=wGRGwcz8A0d_aYq1cLQqphgGQXqHWOyVTk3NFKu_NiXLAD4D5fK5TzL95yi3IY-LNJQdXyAg9upBIyEoFiKp5WiZMHde1gTCqa0gPBNC9Y14c0stVP4Z94J172xYhwKxLUorRe6btI-2OWo54sKmjsZMrOIM2q2o4eOxZUKvg1DJR6pGq9T6MQ==&uniplatform=NZKPT&language=CHS" target="_blank">super-element condensation method</a> from my friend <a href="https://www.researchgate.net/scientific-contributions/Zhe-Yang-2285984581" target="_blank">Zhe Yang</a> is accepted by Journal of Mechanical Strength!
+- *Jun. 2024*: &nbsp;🎉🎉 The paper about <a href="https://www.mdpi.com/2227-7390/12/13/2076" target="_blank">model updating</a> from my friend <a href="https://www.researchgate.net/scientific-contributions/Jinhui-Li-2245551287" target="_blank">Jinhui Li</a> is accepted by Mathematics!
 - *May 2024*: &nbsp;🎉🎉 My paper about <a href="https://www.mdpi.com/2226-4310/11/6/434" target="_blank">multiple bird strike</a> is accepted by Aerospace!
 - *Apr. 2024*: &nbsp;🎉🎉 I complete the paper about <a href="https://www.mdpi.com/2226-4310/11/6/434" target="_blank">multiple bird strike</a> and submit to Aerospace!
 - *Oct. 2023*: &nbsp;🎉🎉 I join Aero Engine Academy of China as a research assistant for CAE software development.
@@ -128,7 +130,7 @@ Zhe Yang, Baoqiang Zhang, Zhenhuan Tang, Yong Tang, Wujun Feng, Haidong Lin, **S
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/MR-GVNO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MR-GVNO: A Geometry-Aware Variational Physics-informed Neural Operator for Mindlin–Reissner Plates on Irregular Domains]
+[MR-GVNO: A Geometry-Aware Variational Physics-informed Neural Operator for Mindlin–Reissner Plates on Irregular Domains](https://arxiv.org/abs/2606.16624)
 
 **Siqi Wang**, Daobo Sun, Yizheng Wang, Yilong Zhang, Yabin Jin, Xiaoying Zhuang, Timon Rabczuk
 
