@@ -22,7 +22,7 @@ Welcome to my academic homepage. My name is Siqi Wang, and I am a self-motivated
 I specialize in solid mechanics and have extensive experience in numerical simulation and vibration testing. My current research focuses on the intersection of AI and solid mechanics.
 
 # 🔥 News
-- *Jun. 2026*: &nbsp;🎉🎉 The paper about scalable topology optimization</a> from my friend <a href="https://www.researchgate.net/profile/Yilong-Zhang-13" target="_blank">Yilong Zhang</a> is accepted by Structural and Multidisciplinary Optimization!
+- *Jun. 2026*: &nbsp;🎉🎉 The paper about scalable topology optimization from my friend <a href="https://www.researchgate.net/profile/Yilong-Zhang-13" target="_blank">Yilong Zhang</a> is accepted by Structural and Multidisciplinary Optimization!
 - *Jun. 2026*: &nbsp;🎉🎉 I complete the paper about <a href="https://arxiv.org/abs/2606.16624" target="_blank">predicting Mindlin–Reissner plate responses using neural operators</a>!
 - *Nov. 2025*: &nbsp;🎉🎉 The paper about <a href="https://www.tandfonline.com/doi/full/10.1080/15397734.2025.2605536?mi=j0k0ox" target="_blank">triply periodic
 minimal surface (TPMS) structure  modeling method</a> is accepted by Mechanics Based Design of Structures and Machines!
