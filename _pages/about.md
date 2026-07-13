@@ -22,7 +22,8 @@ Welcome to my academic homepage. My name is Siqi Wang, and I am a self-motivated
 I specialize in solid mechanics and have extensive experience in numerical simulation and vibration testing. My current research focuses on the intersection of AI and solid mechanics.
 
 # 🔥 News
-- *Jun. 2026*: &nbsp;🎉🎉 The paper about scalable topology optimization from my friend <a href="https://www.researchgate.net/profile/Yilong-Zhang-13" target="_blank">Yilong Zhang</a> is accepted by Structural and Multidisciplinary Optimization!
+- *Jul. 2026*: &nbsp;🎉🎉 The paper about multi-material topology optimization from my friend <a href="https://www.researchgate.net/profile/Yilong-Zhang-13" target="_blank">Yilong Zhang</a> is accepted by Structural and Multidisciplinary Optimization!
+- *Jun. 2026*: &nbsp;🎉🎉 The paper about scalable topology optimization from my friend <a href="https://www.researchgate.net/profile/Yilong-Zhang-13" target="_blank">Yilong Zhang</a> is accepted by Journal of Mechanical Design!
 - *Jun. 2026*: &nbsp;🎉🎉 I complete the paper about <a href="https://arxiv.org/abs/2606.16624" target="_blank">predicting Mindlin–Reissner plate responses using neural operators</a>!
 - *Nov. 2025*: &nbsp;🎉🎉 The paper about <a href="https://www.tandfonline.com/doi/full/10.1080/15397734.2025.2605536?mi=j0k0ox" target="_blank">triply periodic
 minimal surface (TPMS) structure  modeling method</a> is accepted by Mechanics Based Design of Structures and Machines!
@@ -92,7 +93,7 @@ Xiaodong Zhang, Dengyu Wu, Zhenhong Deng, **Siqi Wang**, Wujun Feng, Huageng Luo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Structural and Multidisciplinary Optimization</div><img src='images/SMO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Mechanical Design</div><img src='images/SMO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Scalable Topology Optimization Framework with Neural-Implicit Representation and Adjoint-Driven Gradients]
@@ -100,6 +101,17 @@ Xiaodong Zhang, Dengyu Wu, Zhenhong Deng, **Siqi Wang**, Wujun Feng, Huageng Luo
 Yilong Zhang, Chenxu Wang, **Siqi Wang**, Cunfu Wang, Gengkai Hu
 
 - We propose NIAD-TO, a scalable topology optimization framework that couples neural-implicit density representations with discrete adjoint-driven gradients by integrating PyTorch and FEniCS/dolfin-adjoint in an end-to-end manner, enabling resolution-independent modeling and efficient sensitivity evaluation across multimaterial, multiscale, multiphysics, and nonlinear scenarios with improved accuracy and efficiency.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Structural and Multidisciplinary Optimization</div><img src='images/ES.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Interface-Aware Topology Optimization for Multi-Material Structures via Density Penalization]
+
+Yilong Zhang, Gengkai Hu, Chenxu Wang, **Siqi Wang**, Cunfu Wang
+
+- We propose an interface-aware topology optimization framework based on density penalization, which explicitly models multi-material interfaces and controls their thickness, significantly enhancing the reliability and applicability of optimized structures.
 </div>
 </div>
 
@@ -139,17 +151,6 @@ Zhe Yang, Baoqiang Zhang, Zhenhuan Tang, Yong Tang, Wujun Feng, Haidong Lin, **S
 </div>
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ES.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Interface-Aware Topology Optimization for Multi-Material Structures via Density Penalization]
-
-Yilong Zhang, Gengkai Hu, Chenxu Wang, **Siqi Wang**, Cunfu Wang
-
-- We propose an interface-aware topology optimization framework based on density penalization, which explicitly models multi-material interfaces and controls their thickness, significantly enhancing the reliability and applicability of optimized structures.
-</div>
-</div>
 
 # 📝 Reviewer
 
