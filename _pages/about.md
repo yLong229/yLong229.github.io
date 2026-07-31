@@ -154,7 +154,8 @@ Zhe Yang, Baoqiang Zhang, Zhenhuan Tang, Yong Tang, Wujun Feng, Haidong Lin, **S
 
 # 📝 Reviewer
 
-- Thin-Walled Structures
+- Journal: Thin-Walled Structures
+- Conference: Pacific Graphics 2026
 
 # 🎖 Honors and Awards
 - *Jun. 2025*, The Best Paper Award in <a href="https://www.researchgate.net/lab/CAMDDA-Huageng-Luo" target="_blank">CAMDDA</a>
