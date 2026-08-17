@@ -144,7 +144,7 @@ Zhe Yang, Baoqiang Zhang, Zhenhuan Tang, Yong Tang, Wujun Feng, Haidong Lin, **S
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/MR-GVNO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MR-GVNO: A Geometry-Aware Variational Physics-informed Neural Operator for Mindlin–Reissner Plates on Irregular Domains](https://arxiv.org/abs/2606.16624)
+[GA-VINO: A Geometry-Aware Variational Physics-informed Neural Operator for Mindlin-Reissner Plates](https://arxiv.org/abs/2606.16624)
 
 **Siqi Wang**, Daobo Sun, Yizheng Wang, Yilong Zhang, Yabin Jin, Xiaoying Zhuang, Timon Rabczuk
 
