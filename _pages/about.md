@@ -97,7 +97,8 @@ Xiaodong Zhang, Dengyu Wu, Zhenhong Deng, **Siqi Wang**, Wujun Feng, Huageng Luo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Mechanical Design</div><img src='images/SMO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Scalable Topology Optimization Framework with Neural-Implicit Representation and Adjoint-Driven Gradients]
+[A Scalable Topology Optimization Framework with Neural-Implicit Representation and Adjoint-Driven Gradients](https://link.springer.com/article/10.1007/s00158-026-04395-7)
+
 
 Yilong Zhang, Chenxu Wang, **Siqi Wang**, Cunfu Wang, Gengkai Hu
 
