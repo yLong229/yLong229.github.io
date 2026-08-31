@@ -40,7 +40,7 @@ I specialize in solid mechanics and have extensive experience in numerical simul
   
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Structural and Multidisciplinary Optimization</div><img src='images/ES.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Structural and Multidisciplinary Optimization</div><img src='images/SMO_MMI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Interface-Aware Topology Optimization for Multi-Material Structures via Density Penalization](https://link.springer.com/article/10.1007/s00158-026-04395-7)
