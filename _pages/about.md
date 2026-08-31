@@ -143,21 +143,22 @@ Siqi Wang, Daobo Sun, Yizheng Wang, **Yilong Zhang**, Yabin Jin, Xiaoying Zhuang
 # 📝 Reviewer
 
 - Journal: Discover Artificial Intelligence
-% - Conference: Pacific Graphics 2026
+<!-- - Conference: Pacific Graphics 2026 -->
 
 # 🎖 Honors and Awards
-- *Jun. 2025*, The Best Paper Award in <a href="https://www.researchgate.net/lab/CAMDDA-Huageng-Luo" target="_blank">CAMDDA</a>
-- *Apr. 2025*, Wenzhong Cai 1st Scholarship (Rank 1)
+- *Jun. 2025*, Fujian Provincial Outstanding Master's Thesis Award
+- *Jun. 2024*, The Best Paper Award in <a href="https://www.researchgate.net/lab/CAMDDA-Huageng-Luo" target="_blank">CAMDDA</a>
 
 # 📖 Educations
-- *Sep. 2025 – present*, Ph.D in the College of Intelligent Robotics and Advanced Manufacturing (CIRAM), Fudan University (FDU), Shanghai, China
-- *Sep. 2022 – Jun. 2025*, Master’s Degree in Aerospace Science and Technology, School of Aerospace Engineering, Xiamen University (XMU), Xiamen, China
-- *Sep. 2018 – Jun. 2022*, Bachelor’s Degree in Mechanical Engineering, College of Mechanical and Vehicle Engineering, Hunan University (HNU), Changsha, China
+* *Sep. 2025 – present*, Ph.D. in Mechanics, Zhuhai Campus, Beijing Institute of Technology (BIT), Zhuhai, China
+* *Sep. 2021 – Jun. 2024*, Master’s Degree in Energy and Power, School of Aerospace Engineering, Xiamen University (XMU), Xiamen, China
+* *Sep. 2017 – Jun. 2021*, Bachelor’s Degree in Mechanical Engineering, School of Mechatronic Engineering, Changchun University of Technology (CCUT), Changchun, China
 
 
 # 💬 Conference
-- *Nov. 2024*, The 2nd National Symposium on Reliability Engineering and Science of Complex Equipment & the 11th National Workshop on Model Verification and Validation, Mianyang, China: only participate
-- *Apr. 2023*, The 2023 Joint Academic Annual Conference of the Mechanics Societies of Fujian and Jiangxi Provinces, Putian, China: “Equivalent modeling and impact resistance testing of IWP-filled structures” Oral Presentation
+* *May 2026*, The 5th China Metamaterials Conference (CMMC 2026), Jinan, China: only participate
+- *Apr. 2023*, The 2023 Joint Academic Annual Conference of the Mechanics Societies of Fujian and Jiangxi Provinces, Putian, China: Oral Presentation
 - *Apr. 2023*, The 15th National Symposium on Structural Vibration and Dynamics & the 3rd National Workshop on Impact and Protective Engineering, Xiamen, China: only participate
 - *Nov. 2022*, The 18th China CAE Annual Conference (CCAC 2022), Xiamen, China: only participate
+- *Aug. 2022*, ASME 2022 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE 2022), St. Louis, Missouri, USA: paper presentation
 
