@@ -88,7 +88,7 @@ Chenxu Wang, **Yilong Zhang**, Wenyuan Yu, Shun Yang, Cunfu Wang, Shikai Jing
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Structural and Multidisciplinary Optimization</div><img src='images/shell.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Structural and Multidisciplinary Optimization</div><img src='images/SMO_shell_infill.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Density Penalty-Based Interface Identification in Shell–Infill Topology Optimization](https://link.springer.com/article/10.1007/s00158-024-03871-2)
