@@ -22,26 +22,11 @@ Welcome to my academic homepage. My name is Elion Zhang, and I am a motivated re
 I specialize in solid mechanics and have extensive experience in numerical simulation and topology optimization. My current research focuses on the applications of elastic waves in solid mechanics.I am always open to academic discussions and look forward to potential research collaborations. If you are interested in my research or would like to explore possible opportunities for collaboration, please feel free to contact me via email at [zyl@bit.edu.cn](mailto:zyl@bit.edu.cn).
 
 # 🔥 News
-- *Jul. 2026*: &nbsp;🎉🎉 I go to the University of Hong Kong as a visiting student！
-- *Jul. 2026*: &nbsp;🎉🎉 The paper about multi-material topology optimization from my friend <a href="https://www.researchgate.net/profile/Yilong-Zhang-13" target="_blank">Yilong Zhang</a> is accepted by Structural and Multidisciplinary Optimization!
-- *Jun. 2026*: &nbsp;🎉🎉 The paper about scalable topology optimization from my friend <a href="https://www.researchgate.net/profile/Yilong-Zhang-13" target="_blank">Yilong Zhang</a> is accepted by Journal of Mechanical Design!
-- *Jun. 2026*: &nbsp;🎉🎉 I complete the paper about <a href="https://arxiv.org/abs/2606.16624" target="_blank">predicting Mindlin–Reissner plate responses using neural operators</a>!
-- *Nov. 2025*: &nbsp;🎉🎉 The paper about <a href="https://www.tandfonline.com/doi/full/10.1080/15397734.2025.2605536?mi=j0k0ox" target="_blank">triply periodic
-minimal surface (TPMS) structure  modeling method</a> is accepted by Mechanics Based Design of Structures and Machines!
-- *Sep. 2025*: &nbsp;🎉🎉 I join <a href="https://scholar.google.com/citations?hl=en&user=3CBuGosAAAAJ" target="_blank">Prof. Timon Rabczuk</a>'s group and start my PhD research!
-- *Jun. 2025*: &nbsp;🎉🎉 I receive my master's degree from School of Aerospace Engineering, Xiamen University!
-- *May 2025*: &nbsp;🎉🎉 I complete my master's thesis defense and thank all the committee members for their valuable comments.
-- *May 2025*: &nbsp;🎉🎉 I complete the paper about <a href="https://arxiv.org/abs/2506.04028" target="_blank">triply periodic
-minimal surface (TPMS) structure  modeling method</a>!
-- *Apr. 2025*: &nbsp;🎉🎉 I receive the review reports for my master's thesis, and all the reviewers give me scores above 90!
-- *Apr. 2025*: &nbsp;🎉🎉 The paper about <a href="https://www.sciencedirect.com/science/article/abs/pii/S095183202500393X" target="_blank">high-cycle fatigue life prediction</a> from my friend <a href="https://www.researchgate.net/profile/Xiaodong-Zhang-92" target="_blank">Xiaodong Zhang</a> is accepted by Reliability Engineering & System Safety!
-- *Mar. 2025*: &nbsp;🎉🎉 The paper about <a href="https://www.sciencedirect.com/science/article/abs/pii/S1270963825001804" target="_blank">triply periodic
-minimal surface structure (TPMS) and bird strike</a> is accepted by Aerospace Science and Technology!
-- *Dec. 2024*: &nbsp;🎉🎉 I attended the The 2023 Joint Academic Annual Conference of the Mechanics Societies of Fujian and Jiangxi Provinces and have an oral presentation!
-- *Oct. 2024*: &nbsp;🎉🎉 I complete the paper about <a href="https://www.sciencedirect.com/science/article/abs/pii/S1270963825001804" target="_blank">triply periodic
-minimal surface (TPMS) structure and bird strike</a> and submit to Aerospace Science and Technology!
-
+- *Jul. 2026*:  🎉🎉 Our paper on <a href="https://link.springer.com/article/10.1007/s00158-026-04395-7?utm_source=researchgate.net&utm_medium=article" target="_blank">Interface-aware multi-material topology optimization</a> was accepted for publication in <a href="https://link.springer.com/journal/158" target="_blank">Structural and Multidisciplinary Optimization</a>!
+- *Jun. 2026*:  🎉🎉 Our paper on the scalable topology optimization Framework was accepted for publication in the <a href="https://asmedigitalcollection.asme.org/mechanicaldesign" target="_blank">Journal of Mechanical Design</a>!
+- *Jun. 2025*:  🎉🎉 I received an offer of admission from Beijing Institute of Technology (BIT) and joined the <a href="http://micromechanics.cn/" target="_blank">Laboratory of Wave Mechanics</a> under the supervision of <a href="https://scholar.google.com/citations?hl=zh-CN&user=rtH1n44AAAAJ" target="_blank">Prof. Gengkai Hu</a>!
 - *Aug. 2024*:  🎉🎉 Our paper on <a href="https://link.springer.com/article/10.1007/s00158-024-03871-2?utm_source=researchgate.net&utm_medium=article" target="_blank">topology optimization of shell–infill structures</a> was accepted for publication in <a href="https://link.springer.com/journal/158" target="_blank">Structural and Multidisciplinary Optimization</a>!
+- *Jul. 2024*:  🎉🎉 I started my professional career as an Assistant Engineer, where I was responsible for integrated aircraft hydraulic systems.
 - *Jun. 2024*:  🎉🎉 I received my master's degree from the School of Aerospace Engineering, Xiamen University. I am sincerely grateful to everyone who supported and helped me throughout the past three years!
 - *May 2024*:  🎉🎉 I successfully defended my master's thesis. I sincerely thank all the committee members for their valuable comments and suggestions.
 - *Feb. 2024*:  🎉🎉 Our paper on <a href="https://asmedigitalcollection.asme.org/mechanicaldesign/article-abstract/146/9/091704/1195172/Periodic-Composite-Function-Based-Approach-for?redirectedFrom=fulltext" target="_blank">inverse infill optimization with programmable Poisson's ratio microstructures</a> was accepted for publication in the <a href="https://asmedigitalcollection.asme.org/mechanicaldesign" target="_blank">Journal of Mechanical Design</a>!
