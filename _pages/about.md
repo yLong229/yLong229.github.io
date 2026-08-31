@@ -76,7 +76,7 @@ Siqi Wang, Chuangyu Jiang, **Yilong Zhang**, Xiaodong Zhang, Baoqiang Zhang, Hua
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Composite Structures</div><img src='images/composite.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Composite Structures</div><img src='images/CS_shell_infill.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Topology Optimization of Shell–Infill Structures for Maximum Stiffness and Fundamental Frequency](https://www.sciencedirect.com/science/article/pii/S0263822325000443)
