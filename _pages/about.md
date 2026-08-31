@@ -40,94 +40,90 @@ I specialize in solid mechanics and have extensive experience in numerical simul
   
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aerospace Science and Technology</div><img src='images/ast.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Structural and Multidisciplinary Optimization</div><img src='images/ES.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Bird Strike Resistance Analysis for Engine Fan Blade Filled with Triply Periodic Minimal Surface](https://www.sciencedirect.com/science/article/abs/pii/S1270963825001804)
+[Interface-Aware Topology Optimization for Multi-Material Structures via Density Penalization](https://link.springer.com/article/10.1007/s00158-026-04395-7)
 
-**Siqi Wang**, Chuangyu Jiang, Cunfu Wang, Baoqiang Zhang, Huageng Luo, Wujun Feng
+**Yilong Zhang**, Chenxu Wang, Siqi Wang, Cunfu Wang, Gengkai Hu
 
-- We propose using TPMS structures as lightweight fillers in wide-chord hollow fan blades to enhance bird strike resistance. A multi-level framework—spanning material, element, and component levels—demonstrates the feasibility and effectiveness of this approach, highlighting its strong potential in aero-engine applications. 
+* We propose an interface-aware topology optimization framework for multi-material structures using density penalization. The method implicitly identifies transition interfaces between different materials, incorporates prescribed interfacial properties into the material interpolation, and enables explicit control of interface thickness, providing a unified approach for the design of multi-material structures with controllable interface behavior.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Mechanical Design</div><img src='images/NIAD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Scalable Topology Optimization Framework with Neural-Implicit Representation and Adjoint-Driven Gradients](https://www.researchgate.net/publication/407202147_A_Scalable_Topology_Optimization_Framework_with_Neural-Implicit_Representation_and_Adjoint-Driven_Gradients)
+
+**Yilong Zhang**, Chenxu Wang, Siqi Wang, Cunfu Wang, Gengkai Hu
+
+* We propose NIAD-TO, a scalable topology optimization framework that integrates neural-implicit representations with discrete adjoint-driven gradients. By coupling PyTorch with FEniCS/dolfin-adjoint in an end-to-end framework, the method combines flexible neural representations with accurate physics-based sensitivities and is applicable to multimaterial, multiscale, multiphysics, and nonlinear topology optimization problems.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Structural and Multidisciplinary Optimization</div><img src='images/shell.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Density Penalty-Based Interface Identification in Shell–Infill Topology Optimization](https://link.springer.com/article/10.1007/s00158-024-03871-2)
+
+**Yilong Zhang**, Chenxu Wang, Wenyuan Yu, Chunyan Zhang, Shikai Jing, Cunfu Wang
+
+* We propose a density penalty-based topology optimization method for shell–infill structures. By penalizing both solid and void phases, structural interfaces can be identified directly during optimization, while the shell thickness can be explicitly controlled through the density penalty and filtering parameters. The method is demonstrated in both 2D and 3D shell–infill design problems.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Mechanical Design</div><img src='images/JMD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Periodic Composite Function-Based Approach for Designing Architected Materials With Programmable Poisson's Ratios](https://asmedigitalcollection.asme.org/mechanicaldesign/article-abstract/146/9/091704/1195172/Periodic-Composite-Function-Based-Approach-for?redirectedFrom=fulltext)
+
+**Yilong Zhang**, Bifa Chen, Yuxuan Du, Ye Qiao, Cunfu Wang
+
+* We propose a periodic composite function (PCF)-based approach for designing architected materials with programmable Poisson's ratios. The method enables compact parametric representation of microstructures with both positive and negative Poisson's ratios while maintaining connectivity between neighboring cells, providing an efficient framework for inverse design and spatially varying mechanical properties.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASME IDETC/CIE</div><img src='images/IDETC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Periodic Composite Function-Based Designing of Microstructures With Programmable Poisson Ratio](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2022/86229/V03AT03A045/1150338)
+
+**Yilong Zhang**, Yuxuan Du, Ye Qiao, Shu Wang, Cunfu Wang
+
+* We introduce a periodic composite function-based representation for the parametric design of microstructures with programmable Poisson's ratios. The framework provides a compact geometric description of architected microstructures and establishes the foundation for subsequent inverse design of architected materials with spatially programmable mechanical properties.
+
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mechanics Based Design of Structures and Machines</div><img src='images/voxel.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[An Improved Finite Element Modeling Method for Triply Periodic Minimal Surface Structures Based on Element Size and Minimum Jacobian](https://www.tandfonline.com/doi/full/10.1080/15397734.2025.2605536?mi=j0k0ox)
+[An Improved Finite Element Modeling Method for Triply Periodic Minimal Surface Structures Based on Element Size and Minimum Jacobian](https://www.tandfonline.com/doi/full/10.1080/15397734.2025.2605536)
 
-**Siqi Wang**, Chuangyu Jiang, Yilong Zhang, Xiaodong Zhang, Baoqiang Zhang, Huageng Luo
+Siqi Wang, Chuangyu Jiang, **Yilong Zhang**, Xiaodong Zhang, Baoqiang Zhang, Huageng Luo
 
-- We propose a two-parameter voxel modeling method for TPMS structures, jointly controlling element size and minimum Jacobian. This approach improves mesh convergence, accuracy, and efficiency compared to traditional methods, and demonstrates strong applicability in graded TPMS analysis.
+* A two-parameter voxel modeling method is proposed for the finite element analysis of triply periodic minimal surface (TPMS) structures by jointly controlling element size and minimum Jacobian. The method improves mesh convergence, numerical accuracy, and computational efficiency and also demonstrates good applicability to graded TPMS structures.
+
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aerospace</div><img src='images/aerospace.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Composite Structures</div><img src='images/composite.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multiple-Bird-Strike Probability Model and Dynamic Response of Engine Fan Blades](https://www.mdpi.com/2226-4310/11/6/434)
+[Topology Optimization of Shell–Infill Structures for Maximum Stiffness and Fundamental Frequency](https://www.sciencedirect.com/science/article/pii/S0263822325000443)
 
-**Siqi Wang**, Jinhui Li, Haidong Lin, Zhenhong Deng, Baoqiang Zhang, Huageng Luo
+Chenxu Wang, **Yilong Zhang**, Wenyuan Yu, Shun Yang, Cunfu Wang, Shikai Jing
 
-- We investigate the effects of multiple bird strikes on engine fan blades by introducing a probabilistic impact model and using an implicit–explicit simulation method. 
+* A topology optimization framework is proposed for shell–infill structures considering both structural stiffness and fundamental frequency. A Gaussian-function-based approach is introduced for shell extraction and thickness control, while a variable-penalization interpolation scheme is developed to suppress pseudo modes in eigenfrequency optimization, enabling simultaneous optimization of static and dynamic structural performance.
+
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reliability Engineering & System Safety</div><img src='images/ress.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[High-Cycle Fatigue Life Prediction for Fan Blades Considering Aleatory and Epistemic Uncertainty with Random Damage](https://www.sciencedirect.com/science/article/pii/S095183202500393X)
-
-Xiaodong Zhang, Dengyu Wu, Zhenhong Deng, **Siqi Wang**, Wujun Feng, Huageng Luo, Baoqiang Zhang
-
-- We propose a fatigue life prediction method for Boundary Layer Ingestion (BLI) fan blades under aleatory and epistemic uncertainties with random damage, combining Sparse Polynomial Chaos Expansion–Monte Carlo Simulation (SPCE–MCS), Finite Element Analysis (FEA), and Expectation-Maximization Gaussian Mixture Distribution (EM–GMD).
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Mechanical Design</div><img src='images/SMO.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Scalable Topology Optimization Framework with Neural-Implicit Representation and Adjoint-Driven Gradients](https://link.springer.com/article/10.1007/s00158-026-04395-7)
-
-
-Yilong Zhang, Chenxu Wang, **Siqi Wang**, Cunfu Wang, Gengkai Hu
-
-- We propose NIAD-TO, a scalable topology optimization framework that couples neural-implicit density representations with discrete adjoint-driven gradients by integrating PyTorch and FEniCS/dolfin-adjoint in an end-to-end manner, enabling resolution-independent modeling and efficient sensitivity evaluation across multimaterial, multiscale, multiphysics, and nonlinear scenarios with improved accuracy and efficiency.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Structural and Multidisciplinary Optimization</div><img src='images/ES.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Interface-Aware Topology Optimization for Multi-Material Structures via Density Penalization]
-
-Yilong Zhang, Gengkai Hu, Chenxu Wang, **Siqi Wang**, Cunfu Wang
-
-- We propose an interface-aware topology optimization framework based on density penalization, which explicitly models multi-material interfaces and controls their thickness, significantly enhancing the reliability and applicability of optimized structures.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mathematics</div><img src='images/mathematics.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Improved Bayesian Model Updating Method for Frequency Response Function with Metrics Utilizing NHBFT-PCA](https://www.mdpi.com/2227-7390/12/13/2076)
-
-Jinhui Li, Zhenhong Deng, Yong Tang, **Siqi Wang**, Zhe Yang,  Huageng Luo, Wujun Feng, Baoqiang Zhang
-
-- We develop an improved Bayesian model updating method for stochastic dynamic models using frequency response functions (FRFs). By introducing a novel NHBFT-PCA-based validation metric, our approach enhances both traditional and approximate Bayesian methods. Numerical and experimental results show improved accuracy and efficiency over conventional techniques.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Mechanical Strength</div><img src='images/yangzhe.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[Research on Super-Element Condensation Method of Aero-Engine Magazine Structure Considering Connections for Dynamics Modeling](https://kns.cnki.net/kcms2/article/abstract?v=wGRGwcz8A0d_aYq1cLQqphgGQXqHWOyVTk3NFKu_NiXLAD4D5fK5TzL95yi3IY-LNJQdXyAg9upBIyEoFiKp5WiZMHde1gTCqa0gPBNC9Y14c0stVP4Z94J172xYhwKxLUorRe6btI-2OWo54sKmjsZMrOIM2q2o4eOxZUKvg1DJR6pGq9T6MQ==&uniplatform=NZKPT&language=CHS)
-
-Zhe Yang, Baoqiang Zhang, Zhenhuan Tang, Yong Tang, Wujun Feng, Haidong Lin, **Siqi Wang**, Jinhui Li
-
-- We propose a superelement-based reduction method to efficiently analyze the dynamic behavior of aero-engine casings with complex connections. The reduced model significantly improves computational efficiency while maintaining high accuracy, as validated by simulation and experiments.
-</div>
-</div>
 
 # 📝 Under Review
 
