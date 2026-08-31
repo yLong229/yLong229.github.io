@@ -64,6 +64,30 @@ I specialize in solid mechanics and have extensive experience in numerical simul
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mechanics Based Design of Structures and Machines</div><img src='images/voxel.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An Improved Finite Element Modeling Method for Triply Periodic Minimal Surface Structures Based on Element Size and Minimum Jacobian](https://www.tandfonline.com/doi/full/10.1080/15397734.2025.2605536)
+
+Siqi Wang, Chuangyu Jiang, **Yilong Zhang**, Xiaodong Zhang, Baoqiang Zhang, Huageng Luo
+
+* A two-parameter voxel modeling method is proposed for the finite element analysis of triply periodic minimal surface (TPMS) structures by jointly controlling element size and minimum Jacobian. The method improves mesh convergence, numerical accuracy, and computational efficiency and also demonstrates good applicability to graded TPMS structures.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Composite Structures</div><img src='images/composite.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Topology Optimization of Shell–Infill Structures for Maximum Stiffness and Fundamental Frequency](https://www.sciencedirect.com/science/article/pii/S0263822325000443)
+
+Chenxu Wang, **Yilong Zhang**, Wenyuan Yu, Shun Yang, Cunfu Wang, Shikai Jing
+
+* A topology optimization framework is proposed for shell–infill structures considering both structural stiffness and fundamental frequency. A Gaussian-function-based approach is introduced for shell extraction and thickness control, while a variable-penalization interpolation scheme is developed to suppress pseudo modes in eigenfrequency optimization, enabling simultaneous optimization of static and dynamic structural performance.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Structural and Multidisciplinary Optimization</div><img src='images/shell.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -96,30 +120,6 @@ I specialize in solid mechanics and have extensive experience in numerical simul
 **Yilong Zhang**, Yuxuan Du, Ye Qiao, Shu Wang, Cunfu Wang
 
 * We introduce a periodic composite function-based representation for the parametric design of microstructures with programmable Poisson's ratios. The framework provides a compact geometric description of architected microstructures and establishes the foundation for subsequent inverse design of architected materials with spatially programmable mechanical properties.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mechanics Based Design of Structures and Machines</div><img src='images/voxel.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[An Improved Finite Element Modeling Method for Triply Periodic Minimal Surface Structures Based on Element Size and Minimum Jacobian](https://www.tandfonline.com/doi/full/10.1080/15397734.2025.2605536)
-
-Siqi Wang, Chuangyu Jiang, **Yilong Zhang**, Xiaodong Zhang, Baoqiang Zhang, Huageng Luo
-
-* A two-parameter voxel modeling method is proposed for the finite element analysis of triply periodic minimal surface (TPMS) structures by jointly controlling element size and minimum Jacobian. The method improves mesh convergence, numerical accuracy, and computational efficiency and also demonstrates good applicability to graded TPMS structures.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Composite Structures</div><img src='images/composite.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Topology Optimization of Shell–Infill Structures for Maximum Stiffness and Fundamental Frequency](https://www.sciencedirect.com/science/article/pii/S0263822325000443)
-
-Chenxu Wang, **Yilong Zhang**, Wenyuan Yu, Shun Yang, Cunfu Wang, Shikai Jing
-
-* A topology optimization framework is proposed for shell–infill structures considering both structural stiffness and fundamental frequency. A Gaussian-function-based approach is introduced for shell extraction and thickness control, while a variable-penalization interpolation scheme is developed to suppress pseudo modes in eigenfrequency optimization, enabling simultaneous optimization of static and dynamic structural performance.
 
 </div>
 </div>
