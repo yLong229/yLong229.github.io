@@ -112,7 +112,7 @@ Chenxu Wang, **Yilong Zhang**, Wenyuan Yu, Shun Yang, Cunfu Wang, Shikai Jing
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASME IDETC/CIE</div><img src='images/IDETC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASME IDETC/CIE</div><img src='images/IDETC_infill_NPR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Periodic Composite Function-Based Designing of Microstructures With Programmable Poisson Ratio](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2022/86229/V03AT03A045/1150338)
