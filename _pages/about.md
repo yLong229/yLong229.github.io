@@ -132,7 +132,7 @@ Chenxu Wang, **Yilong Zhang**, Wenyuan Yu, Shun Yang, Cunfu Wang, Shikai Jing
 
 [GA-VINO: A Geometry-Aware Variational Physics-informed Neural Operator for Mindlin-Reissner Plates](https://arxiv.org/abs/2606.16624)
 
-**Siqi Wang**, Daobo Sun, Yizheng Wang, Yilong Zhang, Yabin Jin, Xiaoying Zhuang, Timon Rabczuk
+Siqi Wang, Daobo Sun, Yizheng Wang, **Yilong Zhang**, Yabin Jin, Xiaoying Zhuang, Timon Rabczuk
 
 - We propose MR-GVNO, a geometry-aware physics-informed neural operator that enables label-free and efficient response prediction for Mindlin–Reissner plates with irregular geometries, heterogeneous materials, and varying loads.
 </div>
@@ -142,8 +142,8 @@ Chenxu Wang, **Yilong Zhang**, Wenyuan Yu, Shun Yang, Cunfu Wang, Shikai Jing
 
 # 📝 Reviewer
 
-- Journal: Thin-Walled Structures
-- Conference: Pacific Graphics 2026
+- Journal: Discover Artificial Intelligence
+% - Conference: Pacific Graphics 2026
 
 # 🎖 Honors and Awards
 - *Jun. 2025*, The Best Paper Award in <a href="https://www.researchgate.net/lab/CAMDDA-Huageng-Luo" target="_blank">CAMDDA</a>
