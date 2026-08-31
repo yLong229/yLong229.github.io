@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Siqi Wang"
-description              : "First year Ph.D. student, focusing on AI for solid mechanics, impact mechanics and mechanical metamaterials. "
-repository               : "wsqqqqqqq/Siqi-Wang.github.io"
+title                    : "Elion Zhang"
+description              : "First year Ph.D. student in Beijing Institute of Technology（Zhuhai）, focusing on Elastic Wave Mechanics in Solids, Zero-Energy-Mode Metamaterials and Topology Optimization. "
+repository               : "yLong229/yLong229.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Siqi Wang"
+  name             : "Elion Zhang"
   avatar           : "images/myself.png"
-  bio              : "Fudan University"
-  location         : "Shanghai, China"
+  bio              : "Beijing Institute of Technology"
+  location         : "Zhuhai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Ga7jZLMAAAAJ&hl=en&oi=sra"
-  email            : "35020221151529@stu.xmu.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Siqi-Wang-116?ev=hdr_xprf"
+  googlescholar    : # e.g., "https://scholar.google.com/citations?user=Ga7jZLMAAAAJ&hl=en&oi=sra"
+  email            : "zyl@bit.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Yilong-Zhang-13?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "siqi-wang915"
+  github           : "yLong229"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : "siqi-wang-51b9b9373"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0009-2104-7784"
+  orcid            : # e.g., "https://orcid.org/my-orcid?orcid=0009-0009-2104-7784"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
